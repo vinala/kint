@@ -1,5 +1,5 @@
 {
-    "name": "kint-php/kint",
+    "name": "vinala/kint",
     "description": "Kint - debugging tool for PHP developers",
     "keywords": ["kint", "php", "debug"],
     "type": "library",
@@ -13,6 +13,10 @@
         {
             "name": "Rokas Šleinius",
             "homepage": "https://github.com/raveren"
+        },
+        {
+            "name": "Youssef Had",
+            "homepage": "https://github.com/youssefhad"
         },
         {
             "name": "Contributors",
