@@ -25,13 +25,13 @@
 
 use Kint\Kint;
 
-if (!\function_exists('d')) {
+if (!\function_exists('dg')) {
     /**
      * Alias of Kint::dump().
      *
      * @return int|string
      */
-    function d()
+    function dg()
     {
         $args = \func_get_args();
 
